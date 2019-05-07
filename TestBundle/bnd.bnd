@@ -1,0 +1,2 @@
+Private-Package: com.github.hannesknutsson.privatepkg
+Bundle-Activator: com.github.hannesknutsson.privatepkg.Activator

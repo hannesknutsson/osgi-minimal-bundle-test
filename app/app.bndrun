@@ -1,0 +1,4 @@
+-runfw: org.apache.felix.framework;version='[6.0.3,6.0.3]'
+-runee: JavaSE-1.8
+-runrequires: bnd.identity;id='TestBundle'
+-runbundles: TestBundle;version='[1.0.0,1.0.1)'
